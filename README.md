@@ -1,4 +1,5 @@
 ![counter](https://enwk7okkacbnf3i.m.pipedream.net)
+![counter](https://komarev.com/ghpvc/?username=joypreetsinghbhullar&color=green)
 
 
 <h1 align="center">Hello World 👋</h1>
