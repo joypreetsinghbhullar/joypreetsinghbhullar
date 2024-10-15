@@ -21,7 +21,7 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=joypreetsinghbhullar&show_icons=true&theme=dark&hide_border=true)</a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joypreetsinghbhullar&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</details>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joypreetsinghbhullar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 
