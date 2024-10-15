@@ -5,9 +5,10 @@
 
 <h3 align="center"></h3>
 <p align="center">
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,go,rust,nodejs,postgres,mongo,redis,docker,neovim&coding=cute" />
+  </a>
+</p>
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/USERID?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/USERID)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/USERID)
