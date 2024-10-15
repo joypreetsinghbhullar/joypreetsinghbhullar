@@ -13,4 +13,7 @@
 <details>
   <summary>Coding Stats</summary>
 
-[![Code stats](https://github-readme-stats.vercel.app/api?username=joypreetsinghbhullar)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=joypreetsinghbhullar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joypreetsinghbhullar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
