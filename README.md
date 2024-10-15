@@ -20,7 +20,7 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=joypreetsinghbhullar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joypreetsinghbhullar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-<a href="#>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joypreetsinghbhullar&theme=dark&background=000000)](https://git.io/streak-stats)</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joypreetsinghbhullar&theme=dark&background=000000)](https://git.io/streak-stats)
 </details>
 
 
