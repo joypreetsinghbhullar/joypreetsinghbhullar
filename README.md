@@ -1,9 +1,10 @@
 ![counter](https://enwk7okkacbnf3i.m.pipedream.net)
 ![counter](https://komarev.com/ghpvc/?username=joypreetsinghbhullar&color=green)
 
-
+# hello world 👋
+<!--
 <h1 align="center">Hello World 👋</h1>
-
+-->
 <h3 align="center"></h3>
 <p align="center">
   <a href="https://skillicons.dev">
