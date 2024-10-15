@@ -1,16 +1,16 @@
-## Hi there 👋
+![counter](https://enwk7okkacbnf3i.m.pipedream.net)
 
-<!--
-**joypreetsinghbhullar/joypreetsinghbhullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hello World 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,go,rust,nodejs,postgres,mongo,redis,docker,neovim&coding=cute" />
+  </a>
+</p>
+
+<details>
+  <summary>Coding Stats</summary>
+
+[![Code stats](https://github-readme-stats.vercel.app/api?username=joypreetsinghbhullar)](https://github.com/anuraghazra/github-readme-stats)
